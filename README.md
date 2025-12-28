@@ -31,10 +31,7 @@
 
 | 训练损失收敛 (Training Loss) | 预测结果对比 (Prediction Comparison) |
 | :---: | :---: |
-| ![Loss Curve](<img width="1084" height="832" alt="image" src="https://github.com/user-attachments/assets/b93fdd71-20bd-4c04-aa71-cfb964c62752" />) 
-
-| ![Prediction](<img width="1066" height="848" alt="image" src="https://github.com/user-attachments/assets/7fe2029c-91ef-4095-849d-611e3ae317ba" />
-) |
+| ![Loss Curve](loss_curve.png) | ![Prediction](prediction.png) |
 
 ## 🛠️ 环境依赖 (Requirements)
 
